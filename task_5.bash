@@ -1,0 +1,1 @@
+ find -mindepth 0 -type d | wc -l
