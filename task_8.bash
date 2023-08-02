@@ -1,1 +1,1 @@
-file "/tmp/tekouin"
+file -b /tmp/tekouin
